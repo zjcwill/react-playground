@@ -1,3 +1,8 @@
+/**
+ * 高阶组件
+ * 
+ * 获取localstorage
+ */
 import React,{Component} from 'react';
 
 function withPersistentData(WrappedComponet){

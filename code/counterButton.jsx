@@ -1,3 +1,6 @@
+/**
+ * shouldComponentUpdate
+ */
 import React from 'react';
 
 class CounterButton extends React.Component {

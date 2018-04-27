@@ -21,8 +21,7 @@ class EchartsCom extends Component {
     }
     render() {
         return (
-            <div id='main' style={{width:400,height:400}}>
-                
+            <div id='main' style={{width:400,height:400}}>    
             </div>
         );
     }
